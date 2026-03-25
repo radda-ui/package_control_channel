@@ -225,7 +225,7 @@
 		},
 		{
             "name": "Gemini Assistant",
-            "description": "Google Gemini AI assistant integrated into Sublime Text. Interactive console, file attachments, code generation, write tools, and conversation history.",
+			"details": "https://github.com/radda-ui/geminiassistant",
             "labels": ["ai", "gemini", "assistant", "code", "chat"],
             "releases": [
                 {
