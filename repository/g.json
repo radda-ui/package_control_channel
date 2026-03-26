@@ -234,7 +234,7 @@
 				}
 			]
 		},
-    {
+		{
 			"name": "GeminiCLI",
 			"details": "https://github.com/flashmodel/gemini-st",
 			"labels": ["agent", "ai", "chat"],
